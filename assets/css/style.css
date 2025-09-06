@@ -6,55 +6,40 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  line-height: 1.6;
+  line-height: 1.8;
+  font-size: 1.3em;  /* 正文字体稍大 */
 }
 
 /* 标题样式 */
 h1 {
-  font-size: 2.5em;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
+  font-size: 2.4em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
 }
 
 h2 {
-  font-size: 2em;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
+  font-size: 1.8em;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
 }
 
 h3 {
-  font-size: 1.7em;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
-}
-
-h4 {
   font-size: 1.5em;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
-}
-
-h5 {
-  font-size: 1.3em;
   margin-top: 0.8em;
-  margin-bottom: 0.4em;
-}
-
-h6 {
-  font-size: 1.1em;
-  margin-top: 0.6em;
-  margin-bottom: 0.3em;
+  margin-bottom: 0.8em;
 }
 
 /* 段落 */
 p {
-  font-size: 1em;
+  font-size: 1.3em;  /* 正文字体稍大 */
   margin: 0.8em 0;
 }
 
 /* 列表 */
 ul, ol {
   margin: 0.8em 0 0.8em 1.5em;
+  list-style: none;  /* 去掉圆点 */
+  padding-left: 0;
 }
 
 /* 代码块 */
@@ -74,8 +59,8 @@ pre {
 
 /* 超链接 */
 a {
-  color: #0000ee;
-  text-decoration: underline;
+  color: #000000;       /* 黑色 */
+  text-decoration: underline; /* 保留下划线 */
 }
 
 a:hover {
