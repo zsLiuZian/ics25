@@ -4,17 +4,22 @@ title: ICS 2025
 
 欢迎选修计算机系统导论（ICS）课程！
 
-## Week 1: Rust 基础
+# 课程大纲
 
-- [课程笔记](https://example.com/week1-note){: .note-link }
-- [练习题](https://example.com/week1-exercises){: .note-link }
+## Week 1
 
-## Week 2: 所有权与借用
+- **2025.9.8**：[大班课件](https://www.baidu.com){: .note-link}
+- **2025.9.10**：[小班课件](https://www.baidu.com){: .note-link}
 
-- [课程笔记](https://example.com/week2-note){: .note-link }
-- [练习题](https://example.com/week2-exercises){: .note-link }
+## Week 2
 
-## Week 3: 模块与包
+# 资料下载
+
+## 往年题
+
+## 电子教材
+
+# 相关链接
 
 - [课程笔记](https://example.com/week3-note){: .note-link }
 - [练习题](https://example.com/week3-exercises){: .note-link }
