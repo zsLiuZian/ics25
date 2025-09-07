@@ -1,5 +1,5 @@
 ---
-title: ICS 2025
+title: "ICS 2025"
 layout: default
 ---
 

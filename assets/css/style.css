@@ -61,6 +61,7 @@ pre {
 a {
   color: #000000;       /* 黑色 */
   text-decoration: underline; /* 保留下划线 */
+  font-size: inherit;
 }
 
 a:hover {
