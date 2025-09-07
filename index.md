@@ -3,7 +3,7 @@ title: "ICS 2025"
 layout: default
 ---
 
-欢迎选修计算机系统导论（ICS）课程！
+***欢迎选修计算机系统导论（ICS）课程！***
 
 - 小班编号：待定
 - 老师：[陈翔](https://if-lab-pku.github.io){: .note-link}
