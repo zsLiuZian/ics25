@@ -1,6 +1,4 @@
 /* 页面基础 */
-
-
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   background-color: #ffffff;
@@ -9,32 +7,49 @@ body {
   margin: auto;
   padding: 20px;
   line-height: 1.8;
-  font-size: 1.2em;  /* 正文字体稍大 */
+  font-size: 1em;  /* 保持字号不变 */
+}
+
+/* 页眉样式 */
+.site-header {
+  text-align: center;
+  padding: 20px;
+  border-bottom: 3px solid #000000;
+  background: linear-gradient(to right, #f0f0f0, #ffffff);
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+.site-header h1 {
+  margin: 0.2em 0;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.site-header .subtitle {
+  margin-top: 0.3em;
+  font-style: italic;
+  color: #555555;
 }
 
 /* 标题样式 */
-h1 {
-  font-size: 1.8em;
-  margin-top: 0.5em;
+h1, h2, h3 {
+  margin-top: 1em;
   margin-bottom: 0.5em;
+  padding-bottom: 4px;
+  border-bottom: 2px solid #ddd;  /* 添加下划分割线 */
+  border-radius: 2px;
 }
 
-h2 {
-  font-size: 1.6em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-h3 {
-  font-size: 1.5em;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
+h1 { font-size: 1.2em; }
+h2 { font-size: 1.1em; }
+h3 { font-size: 1em; }
 
 /* 段落 */
 p {
-  font-size: 1em;  /* 正文字体稍大 */
-  margin: 0.2em 0;
+  margin: 0.5em 0;
+  padding-left: 6px;
+  border-left: 3px solid #eee;  /* 左侧边框装饰 */
 }
 
 /* 列表 */
@@ -42,6 +57,8 @@ ul, ol {
   margin: 0.8em 0 0.8em 1.5em;
   list-style: none;  /* 去掉圆点 */
   padding-left: 0;
+  border-left: 3px solid #ddd;  /* 左侧小边框 */
+  padding-left: 10px;
 }
 
 /* 代码块 */
@@ -49,39 +66,30 @@ pre, code {
   font-family: "Fira Code", "Consolas", monospace;
   background-color: #f9f9f9;
   color: #000;
-  padding: 4px 6px;
+  padding: 10px;
+  border-left: 4px solid #ccc;  /* 左侧装饰边 */
   border-radius: 4px;
   overflow-x: auto;
-  font-size: 0.95em;
-}
-
-pre {
-  padding: 10px;
 }
 
 /* 超链接 */
 a {
-  color: #000000;       /* 黑色 */
-  text-decoration: underline; /* 保留下划线 */
+  color: #000000;
+  text-decoration: underline;
   font-size: inherit;
 }
 
 a:hover {
   text-decoration: none;
+  color: #333333;
 }
 
-/* 页眉和页脚 */
-header, footer {
+/* 页脚 */
+footer {
   text-align: center;
-  margin-bottom: 20px;
-}
-
-header h1 {
-  margin-bottom: 0.2em;
-  font-weight: bold;
-}
-
-footer p {
-  font-size: 0.85em;
+  margin-top: 40px;
+  padding-top: 10px;
+  border-top: 2px solid #ddd;
   color: #555;
+  font-size: 0.85em;
 }

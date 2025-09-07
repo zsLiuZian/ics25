@@ -2,14 +2,14 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
-  <title>ICS 2025</title>
+  <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
-  <header>
-    <h1>ICS 2025</h1>
+  <header class="site-header">
+    <h1>{{ page.title }}</h1>
     {% if page.subtitle %}
-    <p class="subtitle">{{ page.subtitle }}</p>
+      <p class="subtitle">{{ page.subtitle }}</p>
     {% endif %}
   </header>
 
