@@ -5,6 +5,7 @@ layout: default
 
 欢迎选修计算机系统导论（ICS）课程！
 
+- 小班编号：待定
 - 老师：[陈翔](https://if-lab-pku.github.io){: .note-link}
 - 助教：刘梓安
 - 上课时间：每周三18:40~20:30
