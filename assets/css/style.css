@@ -1,4 +1,6 @@
 /* 页面基础 */
+
+
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   background-color: #ffffff;
@@ -31,7 +33,7 @@ h3 {
 
 /* 段落 */
 p {
-  font-size: 1.2em;  /* 正文字体稍大 */
+  font-size: 1em;  /* 正文字体稍大 */
   margin: 0.2em 0;
 }
 
