@@ -14,13 +14,15 @@ layout: default
 
 - **第一周**
 - 2025.9.8：[课件](https://www.baidu.com){: .note-link}
-- 2025.9.10：[课件](https://www.baidu.com){: .note-link}
+- 2025.9.10：[课件](resource/seminar/Week1.pptx){: .note-link}
 
 # 资料下载
 
 - **电子教材**
-[深入理解计算机系统（原书第3版）](resource/textbook/深入理解计算机系统（原书第3版）.pdf){: .note-link}
+- [深入理解计算机系统（原书第3版）](resource/textbook/深入理解计算机系统（原书第3版）.pdf){: .note-link}
 
+- **往年课件**
+- [2024秋](resource/lecture/大班课件.rar){: .note-link}
 
 - **往年题**
 - 敬请期待
