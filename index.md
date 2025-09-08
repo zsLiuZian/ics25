@@ -6,7 +6,7 @@ layout: default
 ***欢迎选修计算机系统导论（ICS）课程！***
 
 - 小班编号：待定
-- 老师：[陈翔](https://if-lab-pku.github.io){: .note-link}
+- 老师：[张杰](https://www.chaselab.wiki/){: .note-link}
 - 助教：刘梓安
 - 上课时间：每周三第10\~11节（18:40\~20:30）
 - 上课地点：待定
@@ -19,19 +19,27 @@ layout: default
 
 ## 第一周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.8（周一）：Lec1-overview
+  大班</span> 2025.9.8（周一）：**Lec1 Overview**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.9.10（周三）：助教Week1
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.11（周四）：Lec2-bits-bytes-ints
+  大班</span> 2025.9.11（周四）：**Lec2 Bits and Bytes/Integers**
 
 ## 第二周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.15（周一）：Lec3-float
+  大班</span> 2025.9.15（周一）：**Lec3 Floating Point**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.9.17（周三）：XXX回课Lec2、YYY回课Lec3、助教Week2
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.18（周四）：Lec4-machine-basics
+  大班</span> 2025.9.18（周四）：**Lec4 Machine Prog: Basics**
+
+## 第三周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.9.22（周一）：**Lec5 Machine Prog: Control**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.9.24（周三）：XXX回课Lec3、YYY回课Lec4、助教Week3
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.9.25（周四）：**Lec6 Machine Prog: Procedures**
 
 # 资料下载
 
