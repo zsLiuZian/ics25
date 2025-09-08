@@ -13,17 +13,25 @@ layout: default
 
 # 重要通知
 
+- 这里什么也没有！
+
 # 课程大纲
 
 ## 第一周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.8（周一）：
+  大班</span> 2025.9.8（周一）：Lec1-overview
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.10（周三）：
+  小班</span> 2025.9.10（周三）：助教Week1
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.11（周四）：
+  大班</span> 2025.9.11（周四）：Lec2-bits-bytes-ints
 
-
+## 第二周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.9.15（周一）：Lec3-float
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.9.17（周三）：XXX回课Lec2、YYY回课Lec3、助教Week2
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.9.18（周四）：Lec4-machine-basics
 
 # 资料下载
 
