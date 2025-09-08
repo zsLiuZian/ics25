@@ -21,7 +21,7 @@ layout: default
 
 ## 第1周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.8（周一）：**Lec1 Overview**
+  大班</span> 2025.9.8（周一）：**Lec1 Overview**  [[PPT](resource/lecture/ICS01-overview-20250908.pptx){: .note-link}/[PDF](resource/lecture/ICS01-overview-20250908.pdf){: .note-link}]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.9.10（周三）：助教Week1
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -54,7 +54,7 @@ layout: default
 
 ## 第6周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.13（周一）：**<span style="color: red">阶段测验1 Lec1~Lec8</span> **
+  大班</span> 2025.10.13（周一）：<span style="color: red; font-weight: bold;">阶段测验1 Lec1~Lec8</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.10.15（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week6
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -94,7 +94,7 @@ layout: default
 
 ## 第11周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.17（周一）：**<span style="color: red">阶段测验2 Lec10~Lec18</span> **
+  大班</span> 2025.11.17（周一）：<span style="color: red; font-weight: bold;">阶段测验2 Lec10~Lec18</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.11.19（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week11
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -126,7 +126,7 @@ layout: default
 
 ## 第15周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.15（周一）：**<span style="color: red">Lab测验 Lab1~Lab7</span> **
+  大班</span> 2025.12.15（周一）：<span style="color: red; font-weight: bold;">Lab测验 Lab1~Lab7</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.12.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week15
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
