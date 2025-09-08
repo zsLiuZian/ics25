@@ -17,7 +17,9 @@ layout: default
 
 # 课程大纲
 
-## 第一周
+- 注：小班回课安排待定
+
+## 第1周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.8（周一）：**Lec1 Overview**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -25,21 +27,118 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.11（周四）：**Lec2 Bits and Bytes/Integers**
 
-## 第二周
+## 第2周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.15（周一）：**Lec3 Floating Point**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.17（周三）：XXX回课Lec2、YYY回课Lec3、助教Week2
+  小班</span> 2025.9.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec2、YYY回课Lec3</span>、助教Week2
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.18（周四）：**Lec4 Machine Prog: Basics**
 
-## 第三周
+## 第3周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.22（周一）：**Lec5 Machine Prog: Control**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.24（周三）：XXX回课Lec3、YYY回课Lec4、助教Week3
+  小班</span> 2025.9.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week3
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.25（周四）：**Lec6 Machine Prog: Procedures**
+
+## 第4周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.9.29（周一）：**Lec7	Machine Prog: Data**
+
+## 第5周
+
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.9（周四）：**Lec8 Machine Prog: Advanced**
+
+## 第6周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.13（周一）：**<span style="color: red">阶段测验1 Lec1~Lec8</span> **
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.10.15（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week6
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.16（周四）：**Lec10 Processor Arch: ISA&Logic**
+
+## 第7周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.20（周一）：**Lec11 Processor Arch: Sequential**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.10.22（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week7
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.23（周四）：**Lec12 Processor Arch: Pipelined**
+
+## 第8周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.27（周一）：**Lec13 The Memory Hierarchy**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.10.29（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week8
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.10.30（周四）：**Lec14 Cache Memories**
+
+## 第9周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.3（周一）：**Lec15 Program optimization**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.11.5（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week9
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.6（周四）：**Lec16 Linking** 
+
+## 第10周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.10（周一）：**Lec17 ECF: Exceptions & Processes**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.11.12（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week10
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.13（周四）：**Lec18 ECF: Signals & Nonlocal Jumps** 
+
+## 第11周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.17（周一）：**<span style="color: red">阶段测验2 Lec10~Lec18</span> **
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.11.19（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week11
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.20（周四）：**Lec20 System Level I/O**
+
+## 第12周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.24（周一）：**Lec21 Virtual Memory: Concepts**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.11.26（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week12
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.11.27（周四）：专题讲座
+
+## 第13周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.1（周一）：**Lec23 Virtual Memory: Systems**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.12.3（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week12
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.4（周四）：**Lec24 Dynamic Memory Allocation**
+
+## 第14周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.8（周一）：**Lec25 Network Programming I**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.12.10（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week14
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.11（周四）：**Lec26 Network Programming II**  
+
+## 第15周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.15（周一）：**<span style="color: red">Lab测验 Lab1~Lab7</span> **
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.12.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week15
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.18（周四）：**Lec28 Concurrent Programming**  
+
+## 第16周
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic**
+- <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
+  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">XXX回课Lec、YYY回课Lec</span>、助教Week16
+- <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
+  大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced**  
 
 # 资料下载
 
