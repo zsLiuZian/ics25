@@ -13,7 +13,7 @@ layout: default
 
 # 重要通知
 
-- 这里什么也没有！
+- Lab1已开始，截止时间为9.25 23:59
 
 # 课程大纲
 
@@ -21,11 +21,11 @@ layout: default
 
 ## 第1周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.8（周一）：**Lec1 Overview**  [[PPT](resource/lecture/ICS01-overview-20250908.pptx){: .note-link}/[PDF](resource/lecture/ICS01-overview-20250908.pdf){: .note-link}]
+  大班</span> 2025.9.8（周一）：**Lec1 Overview** [[PPT](resource/lecture/ICS01-overview-20250908.pptx){: .note-link}/[PDF](resource/lecture/ICS01-overview-20250908.pdf){: .note-link}]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.10（周三）：助教Week1
+  小班</span> 2025.9.10（周三）：助教Week1 [[PPT](resource/seminar/Week1.pptx){: .note-link}/[PDF](resource/seminar/Week1.pdf){: .note-link}]
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.11（周四）：**Lec2 Bits and Bytes/Integers**
+  大班</span> 2025.9.11（周四）：**Lec2 Bits and Bytes/Integers**  [[PPT](resource/lecture/ICS02-bits-bytes-ints-20250911.pptx){: .note-link}/[PDF](resource/lecture/ICS02-bits-bytes-ints-20250911.pdf){: .note-link}]
 
 ## 第2周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -88,7 +88,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.11.10（周一）：**Lec17 ECF: Exceptions & Processes**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.11.12（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec16、徐朝睿回课Lec17</span>、助教Week10
+  小班</span> 2025.11.12（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec16、翟凌飞回课Lec17</span>、助教Week10
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.11.13（周四）：**Lec18 ECF: Signals & Nonlocal Jumps** 
 
@@ -136,7 +136,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、黎颂贤回课Lec29、翟凌飞回课Lec30</span>、助教Week16
+  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、黎颂贤回课Lec29、徐朝睿回课Lec30</span>、助教Week16
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced**  
 
