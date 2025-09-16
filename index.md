@@ -187,8 +187,23 @@ layout: default
 - [ICS27-future computing-20241223](resource/lecture/24fall/ICS27-future%20computing-20241223.pdf){: .note-link}
 
 ## 往年题
-- 敬请期待
 
+- [合集](/resource/exam/合集.rar){: .note-link}
+- [期末往年题勘误、详解](/resource/exam/期末往年题勘误、详解.pdf){: .note-link}
+- [2024期中勘误](/resource/exam/2024期中勘误.pdf){: .note-link}
+- **2024**：[期中](/resource/exam/mid/2024期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2024期中答案.pdf){: .note-link}、期末、[期末答案](/resource/exam/final/2024期末答案.pdf){: .note-link}
+- **2023**：[期中](/resource/exam/mid/2023期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2023期中答案.pdf){: .note-link}、期末、期末答案
+- **2022**：[期中](/resource/exam/mid/2022期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2022期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2022期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2022期末答案.pdf){: .note-link}
+- **2021**：[期中](/resource/exam/mid/2021期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2021期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2021期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2021期末答案.pdf){: .note-link}
+- **2020**：[期中](/resource/exam/mid/2020期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2020期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2020期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2020期末答案.pdf){: .note-link}
+- **2019**：[期中](/resource/exam/mid/2019期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2019期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2019期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2019期末答案.pdf){: .note-link}
+- **2018**：[期中](/resource/exam/mid/2018期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2018期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2018期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2018期末答案.pdf){: .note-link}
+- **2017**：[期中](/resource/exam/mid/2017期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2017期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2017期末.pdf){: .note-link}、期末答案
+- **2016**：[期中](/resource/exam/mid/2016期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2016期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2016期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2016期末答案.pdf){: .note-link}
+- **2015**：[期中](/resource/exam/mid/2015期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2015期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2015期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2015期末答案.pdf){: .note-link}
+- **2014**：[期中](/resource/exam/mid/2014期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2014期中答案.pdf){: .note-link}、[期末](/resource/exam/final/2024期末.pdf){: .note-link}、[期末答案](/resource/exam/final/2014期末答案.pdf){: .note-link}
+- **2013**：[期中](/resource/exam/mid/2013期中.pdf){: .note-link}、[期中答案](/resource/exam/mid/2013期中答案.pdf){: .note-link}、期末、[期末答案](/resource/exam/final/2013期末答案.pdf){: .note-link}
+- **2012**：期中、[期中答案](/resource/exam/mid/2012期中答案.pdf){: .note-link}、期末、期末答案
 
 # 相关链接
 
