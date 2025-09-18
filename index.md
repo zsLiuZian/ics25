@@ -21,19 +21,19 @@ layout: default
 
 ## 第1周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.8（周一）：**Lec1 Overview** [[PPT](resource/lecture/ICS01-overview-20250908.pptx){: .note-link}/[PDF](resource/lecture/ICS01-overview-20250908.pdf){: .note-link}]
+  大班</span> 2025.9.8（周一）：**Lec1 Overview** [[课件](resource/lecture/ICS01-overview-20250908.pdf){: .note-link}]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.10（周三）：助教Week1 [[PPT](resource/seminar/Week1.pptx){: .note-link}/[PDF](resource/seminar/Week1.pdf){: .note-link}]
+  小班</span> 2025.9.10（周三）：助教Week1 [[课件](resource/seminar/Week1.pptx){: .note-link}]
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.11（周四）：**Lec2 Bits and Bytes/Integers**  [[PPT](resource/lecture/ICS02-bits-bytes-ints-20250911.pptx){: .note-link}/[PDF](resource/lecture/ICS02-bits-bytes-ints-20250911.pdf){: .note-link}]
+  大班</span> 2025.9.11（周四）：**Lec2 Bits and Bytes/Integers**  [[课件](resource/lecture/ICS02-bits-bytes-ints-20250911.pdf){: .note-link}/[研讨+作业](resource/homework/ICS小班研讨题和作业题-第2讲.pdf)]
 
 ## 第2周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.15（周一）：**Lec3 Floating Point**
+  大班</span> 2025.9.15（周一）：**Lec3 Floating Point** [[课件](resource/lecture/ICS03-float-20250915.pdf)/[研讨+作业](resource/homework/ICS小班研讨题和作业题-第3讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">翟凌飞回课Lec2、钟骏宇回课Lec3</span>、助教Week2
+  小班</span> 2025.9.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">翟凌飞回课Lec2</span> [[课件](resource/seminar/Lec2.pptx)]、<span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec3</span> [[课件](resource/seminar/Lec3.zip)]、助教Week2 [[课件](resource/seminar/Week2.pptx)]
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.18（周四）：**Lec4 Machine Prog: Basics**
+  大班</span> 2025.9.18（周四）：**Lec4 Machine Prog: Basics** [[课件](resource/lecture/ICS04-machine-basics-20250918.pdf)]
 
 ## 第3周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
