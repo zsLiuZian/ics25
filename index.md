@@ -41,16 +41,16 @@ layout: default
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.9.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec4</span> [[课件](/resource/seminar/Lec4.pptx)]、<span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec5</span> [[课件](/resource/seminar/Lec5.pptx)]、助教Week3 [[课件](/resource/seminar/Week3.pptx)]
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.25（周四）：**Lec6 Machine Prog: Procedures** [[课件](/resource/lecture/ICS06-machine-procedures-20250925.pdf)]
+  大班</span> 2025.9.25（周四）：**Lec6 Machine Prog: Procedures** [[课件](/resource/lecture/ICS06-machine-procedures-20250925.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第6讲.pdf)]
 
 ## 第4周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.29（周一）：**Lec7	Machine Prog: Data**
+  大班</span> 2025.9.29（周一）：**Lec7	Machine Prog: Data** [[课件](/resource/lecture/ICS07-machine-data-20250929.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第7讲.pdf)]
 
 ## 第5周
 
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.9（周四）：**Lec8 Machine Prog: Advanced**
+  大班</span> 2025.10.9（周四）：**Lec8 Machine Prog: Advanced** [[课件](/resource/lecture/ICS08-machine-advanced-20251009.pdf)]
 
 ## 第6周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
