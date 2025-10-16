@@ -31,7 +31,11 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.15（周一）：**Lec3 Floating Point** [[课件](resource/lecture/ICS03-float-20250915.pdf)/[研讨+作业](resource/homework/ICS小班研讨题和作业题-第3讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">翟凌飞回课Lec2</span> [[课件](resource/seminar/Lec2.pptx)]、<span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec3</span> [[课件](resource/seminar/Lec3.zip)]、助教Week2 [[课件](resource/seminar/Week2.pptx)]
+  小班</span> 2025.9.17（周三）
+  - <span style="background-color: #FFFF00; padding: 4px 4px">翟凌飞回课Lec2</span> [[课件](resource/seminar/Lec2.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec3</span> [[课件](resource/seminar/Lec3.zip)]
+  - 助教Week2 [[课件](resource/seminar/Week2.pptx)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.18（周四）：**Lec4 Machine Prog: Basics** [[课件](resource/lecture/ICS04-machine-basics-20250918.pdf)/[研讨+作业](resource/homework/ICS小班研讨题和作业题-第4讲.pdf)]
 
@@ -39,13 +43,17 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.22（周一）：**Lec5 Machine Prog: Control** [[课件](resource/lecture/ICS05-machine-control-20250922.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第5讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec4</span> [[课件](/resource/seminar/Lec4.pptx)]、<span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec5</span> [[课件](/resource/seminar/Lec5.pptx)]、助教Week3 [[课件](/resource/seminar/Week3.pptx)]
+  小班</span> 2025.9.24（周三）
+  - <span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec4</span> [[课件](/resource/seminar/Lec4.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec5</span> [[课件](/resource/seminar/Lec5.pptx)]
+  - 助教Week3 [[课件](/resource/seminar/Week3.pptx)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.25（周四）：**Lec6 Machine Prog: Procedures** [[课件](/resource/lecture/ICS06-machine-procedures-20250925.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第6讲.pdf)]
 
 ## 第4周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.9.29（周一）：**Lec7	Machine Prog: Data** [[课件](/resource/lecture/ICS07-machine-data-20250929.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第7讲.pdf)]
+  大班</span> 2025.9.29（周一）：**Lec7 Machine Prog: Data** [[课件](/resource/lecture/ICS07-machine-data-20250929.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第7讲.pdf)]
 
 ## 第5周
 
@@ -56,13 +64,18 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.10.13（周一）：<span style="color: red; font-weight: bold;">阶段测验1 Lec1~Lec8</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.10.15（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">王度回课Lec6、才定州回课Lec7、徐世安回课Lec8</span>、助教Week6
+  小班</span> 2025.10.15（周三）
+  - <span style="background-color: #FFFF00; padding: 4px 4px">王度回课Lec6</span> [[课件](/resource/seminar/Lec6.pdf)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">才定州回课Lec7</span> [[课件](/resource/seminar/Lec7.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">徐世安回课Lec8</span> [[课件](/resource/seminar/Lec8.pptx)]
+  - 助教Week6 [[课件](/resource/seminar/Week6.pptx)]
+
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.16（周四）：**Lec10 Processor Arch: ISA&Logic**
+  大班</span> 2025.10.16（周四）：**Lec10 Processor Arch: ISA&Logic** [[课件](/resource/lecture/ICS09-Processor%20Arch-ISA&Logic-20251016.pdf)]
 
 ## 第7周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.20（周一）：**Lec11 Processor Arch: Sequential**
+  大班</span> 2025.10.20（周一）：**Lec11 Processor Arch: Sequential** [[课件](/resource/lecture/ICS10-Processor%20Arch-Sequential-20241020.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.10.22（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">徐朝睿回课Lec10、吴悠回课Lec11</span>、助教Week7
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -207,7 +220,7 @@ layout: default
 
 # 相关链接
 
-- [PKU CLab](https://clab.pku.edu.cn/){: .note-link }
+- [PKU CLab](https://clab.pku.edu.cn/)
 - [Autolab](http://162.105.31.232/auth/users/sign_in)
 - [北大教学网](https://course.pku.edu.cn/)
 - [北大树洞](https://treehole.pku.edu.cn/)
