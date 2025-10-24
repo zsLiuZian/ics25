@@ -13,7 +13,7 @@ layout: default
 
 # 重要通知
 
-- Lab2已开始，截止时间为10.8 22:00
+- Lab4已开始，截止时间为11.3 23:59
 
 # 课程大纲
 
@@ -71,13 +71,17 @@ layout: default
   - 助教Week6 [[课件](/resource/seminar/Week6.pptx)]
 
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.16（周四）：**Lec10 Processor Arch: ISA&Logic** [[课件](/resource/lecture/ICS09-Processor%20Arch-ISA&Logic-20251016.pdf)]
+  大班</span> 2025.10.16（周四）：**Lec10 Processor Arch: ISA&Logic** [[课件](/resource/lecture/ICS09-Processor-Arch-ISA&Logic-20251016.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第9讲.pdf)]
 
 ## 第7周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.20（周一）：**Lec11 Processor Arch: Sequential** [[课件](/resource/lecture/ICS10-Processor%20Arch-Sequential-20241020.pdf)]
+  大班</span> 2025.10.20（周一）：**Lec11 Processor Arch: Sequential** [[课件](/resource/lecture/ICS10-Processor-Arch-Sequential-20241020.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第10讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.10.22（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">徐朝睿回课Lec10、吴悠回课Lec11</span>、助教Week7
+  小班</span> 2025.10.22（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">徐朝睿回课Lec10</span>
+  - <span style="background-color: #FFFF00; padding: 4px 4px">吴悠回课Lec11</span> [[课件](/resource/seminar/Lec11.pdf)]
+  - 助教Week7 [[课件](/resource/seminar/Week7.pptx)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.10.23（周四）：**Lec12 Processor Arch: Pipelined**
 
@@ -149,7 +153,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、黎颂贤回课Lec29、徐朝睿回课Lec30</span>、助教Week16
+  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、黎颂贤回课Lec29</span>、助教Week16
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced**  
 
