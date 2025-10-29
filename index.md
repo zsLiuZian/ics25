@@ -83,13 +83,16 @@ layout: default
   - 助教Week7 [[课件](/resource/seminar/Week7.pptx)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.23（周四）：**Lec12 Processor Arch: Pipelined**
+  大班</span> 2025.10.23（周四）：**Lec12 Processor Arch: Pipelined** [[课件](/resource/lecture/ICS11-Processor-Arch-Pipelined-20251023.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第11讲.pdf)]
 
 ## 第8周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.27（周一）：**Lec13 The Memory Hierarchy**
+  大班</span> 2025.10.27（周一）：**Lec13 The Memory Hierarchy** [[课件](/resource/lecture/ICS12-memory-hierarchy-20251027.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第12讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.10.29（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">王瑞回课Lec12、袁佳逸回课Lec13</span>、助教Week8
+  小班</span> 2025.10.29（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">王瑞回课Lec12</span> [[课件](/resource/seminar/Lec12.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec13</span> [[课件](/resource/seminar/Lec13.pptx)]
+  - 助教Week8 [[课件](/resource/seminar/Week8.pptx)]
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.10.30（周四）：**Lec14 Cache Memories**
 
