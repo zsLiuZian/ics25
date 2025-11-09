@@ -94,13 +94,17 @@ layout: default
   - <span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec13</span> [[课件](/resource/seminar/Lec13.pptx)]
   - 助教Week8 [[课件](/resource/seminar/Week8.pptx)]
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.10.30（周四）：**Lec14 Cache Memories**
+  大班</span> 2025.10.30（周四）：**Lec14 Cache Memories** [[课件](/resource/lecture/ICS13-cache-memories-20251030.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第13讲.pdf)]
 
 ## 第9周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.3（周一）：**Lec15 Program optimization**
+  大班</span> 2025.11.3（周一）：**Lec15 Program optimization** [[课件](/resource/lecture/ICS14-optimization-20251103.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第14讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.11.5（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">郭梓墨回课Lec14、黎颂贤回课Lec15</span>、助教Week9
+  小班</span> 2025.11.5（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">郭梓墨回课Lec14Lec15</span> [[课件](/resource/seminar/Lec14.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">黎颂贤回课Lec15</span> [[课件](/resource/seminar/Lec15.pptx)]
+  - 助教Week9 [[课件](/resource/seminar/Week9.pptx)/[简单Cache系统实现](/resource/seminar/THUWC2020_Cache.zip)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.11.6（周四）：**Lec16 Linking** 
 
