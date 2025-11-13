@@ -13,7 +13,8 @@ layout: default
 
 # 重要通知
 
-- Lab4已开始，截止时间为11.3 23:59
+- Lab5已开始，截止时间为11.20 23:59
+- Lab6已开始，截止时间为11.27 23:59
 
 # 课程大纲
 
@@ -31,7 +32,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.15（周一）：**Lec3 Floating Point** [[课件](resource/lecture/ICS03-float-20250915.pdf)/[研讨+作业](resource/homework/ICS小班研讨题和作业题-第3讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.17（周三）
+  小班</span> 2025.9.17（周三）：
   - <span style="background-color: #FFFF00; padding: 4px 4px">翟凌飞回课Lec2</span> [[课件](resource/seminar/Lec2.pptx)]
   - <span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec3</span> [[课件](resource/seminar/Lec3.zip)]
   - 助教Week2 [[课件](resource/seminar/Week2.pptx)]
@@ -43,7 +44,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.9.22（周一）：**Lec5 Machine Prog: Control** [[课件](resource/lecture/ICS05-machine-control-20250922.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第5讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.9.24（周三）
+  小班</span> 2025.9.24（周三）：
   - <span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec4</span> [[课件](/resource/seminar/Lec4.pptx)]
   - <span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec5</span> [[课件](/resource/seminar/Lec5.pptx)]
   - 助教Week3 [[课件](/resource/seminar/Week3.pptx)]
@@ -64,7 +65,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.10.13（周一）：<span style="color: red; font-weight: bold;">阶段测验1 Lec1~Lec8</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.10.15（周三）
+  小班</span> 2025.10.15（周三）：
   - <span style="background-color: #FFFF00; padding: 4px 4px">王度回课Lec6</span> [[课件](/resource/seminar/Lec6.pdf)]
   - <span style="background-color: #FFFF00; padding: 4px 4px">才定州回课Lec7</span> [[课件](/resource/seminar/Lec7.pptx)]
   - <span style="background-color: #FFFF00; padding: 4px 4px">徐世安回课Lec8</span> [[课件](/resource/seminar/Lec8.pptx)]
@@ -101,20 +102,24 @@ layout: default
   大班</span> 2025.11.3（周一）：**Lec15 Program optimization** [[课件](/resource/lecture/ICS14-optimization-20251103.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第14讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.11.5（周三）：
-  - <span style="background-color: #FFFF00; padding: 4px 4px">郭梓墨回课Lec14Lec15</span> [[课件](/resource/seminar/Lec14.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">郭梓墨回课Lec14</span> [[课件](/resource/seminar/Lec14.pptx)]
   - <span style="background-color: #FFFF00; padding: 4px 4px">黎颂贤回课Lec15</span> [[课件](/resource/seminar/Lec15.pptx)]
   - 助教Week9 [[课件](/resource/seminar/Week9.pptx)/[简单Cache系统实现](/resource/seminar/THUWC2020_Cache.zip)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.6（周四）：**Lec16 Linking** 
+  大班</span> 2025.11.6（周四）：**Lec16 Linking**  [[课件](/resource/lecture/ICS15-linking-20251106.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第15讲.pdf)]
 
 ## 第10周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.10（周一）：**Lec17 ECF: Exceptions & Processes**
+  大班</span> 2025.11.10（周一）：**Lec17 ECF: Exceptions & Processes** [[课件](/resource/lecture/ICS16-ECF1-20251110.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第16讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.11.12（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec16、翟凌飞回课Lec17</span>、助教Week10
+  小班</span> 2025.11.12（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">季文喆回课Lec16</span> [[课件](/resource/seminar/Lec16.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">翟凌飞回课Lec17</span> [[课件](/resource/seminar/Lec17.pptx)]
+  - 助教Week10 [[课件](/resource/seminar/Week10.pptx)/[AIOS论文](/resource/seminar/AIOS.pdf)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.13（周四）：**Lec18 ECF: Signals & Nonlocal Jumps** 
+  大班</span> 2025.11.13（周四）：**Lec18 ECF: Signals & Nonlocal Jumps** [[课件](/resource/lecture/ICS17-ECF2-20251113.pdf)]
 
 ## 第11周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
@@ -160,7 +165,7 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、黎颂贤回课Lec29</span>、助教Week16
+  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、徐朝睿回课Lec29</span>、助教Week16
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced**  
 
