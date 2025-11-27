@@ -130,19 +130,23 @@ layout: default
   - 助教Week11 [[课件](/resource/seminar/Week11.pptx)/[handlers-tutorial](/resource/seminar/handlers-tutorial.pdf)/[Composable Effect Handling for Programming LLM-integrated Scripts](/resource/seminar/2507.22048v1.pdf)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.20（周四）：**Lec20 System Level I/O**
+  大班</span> 2025.11.20（周四）：**Lec20 System Level I/O** [[课件](/resource/lecture/ICS18-SysIO-20251120.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第18讲.pdf)]
 
 ## 第12周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.24（周一）：**Lec21 Virtual Memory: Concepts**
+  大班</span> 2025.11.24（周一）：**Lec21 Virtual Memory: Concepts** [[课件](/resource/lecture/ICS19-VM1-20251124.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第19讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.11.26（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">王度回课Lec20、郭梓墨回课Lec21</span>、助教Week12
+  小班</span> 2025.11.26（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">王度回课Lec20</span> [[课件](/resource/seminar/Lec20.pdf)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">郭梓墨回课Lec21</span> [[课件](/resource/seminar/Lec21.pptx)]
+  - 助教Week12 [[课件](/resource/seminar/Week12.pptx)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.27（周四）：专题讲座
+  大班</span> 2025.11.27（周四）：**Lec23 Virtual Memory: Systems**
 
 ## 第13周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.1（周一）：**Lec23 Virtual Memory: Systems**
+  大班</span> 2025.12.1（周一）：专题讲座
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.12.3（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec23</span>、助教Week12
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
