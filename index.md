@@ -13,8 +13,7 @@ layout: default
 
 # 重要通知
 
-- Lab5已开始，截止时间为11.20 23:59
-- Lab6已开始，截止时间为11.27 23:59
+- Lab7已开始，截止时间为12.18 23:59
 
 # 课程大纲
 
@@ -142,21 +141,28 @@ layout: default
   - 助教Week12 [[课件](/resource/seminar/Week12.pptx)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.11.27（周四）：**Lec23 Virtual Memory: Systems**
+  大班</span> 2025.11.27（周四）：**Lec23 Virtual Memory: Systems** [[课件](/resource/lecture/ICS20-VM2-20251127.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第20讲.pdf)]
 
 ## 第13周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.1（周一）：专题讲座
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.3（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec23</span>、助教Week12
+  小班</span> 2025.12.3（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">钟骏宇回课Lec23</span> [[课件](/resource/seminar/Lec23.pptx)]
+  - 助教Week12 [[课件](/resource/seminar/Week13.pptx)]
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.4（周四）：**Lec24 Dynamic Memory Allocation**
+  大班</span> 2025.12.4（周四）：**Lec24 Dynamic Memory Allocation** [[课件](/resource/lecture/ICS21-DMM-20251204.pdf)]
 
 ## 第14周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.8（周一）：**Lec25 Network Programming I**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.10（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">吴悠回课Lec24、谌小祎回课Lec25</span>、助教Week14
+  小班</span> 2025.12.10（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">吴悠回课Lec24</span>
+  - <span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec25</span>
+  - 助教Week14
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.11（周四）：**Lec26 Network Programming II**  
 
@@ -164,7 +170,10 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.15（周一）：<span style="color: red; font-weight: bold;">Lab测验 Lab1~Lab7</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.17（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">才定州回课Lec26</span>、助教Week15
+  小班</span> 2025.12.17（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">才定州回课Lec26</span>
+  - 助教Week15
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.18（周四）：**Lec28 Concurrent Programming**  
 
@@ -172,7 +181,11 @@ layout: default
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic**
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
-  小班</span> 2025.12.24（周三）：<span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28、徐朝睿回课Lec29</span>、助教Week16
+  小班</span> 2025.12.24（周三）：
+  - <span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28</span>
+  - <span style="background-color: #FFFF00; padding: 4px 4px">徐朝睿回课Lec29</span>
+  - 助教Week16
+  
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
   大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced**  
 
