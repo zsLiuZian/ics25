@@ -152,19 +152,19 @@ layout: default
   - 助教Week12 [[课件](/resource/seminar/Week13.pptx)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.4（周四）：**Lec24 Dynamic Memory Allocation** [[课件](/resource/lecture/ICS21-DMM-20251204.pdf)]
+  大班</span> 2025.12.4（周四）：**Lec24 Dynamic Memory Allocation** [[课件](/resource/lecture/ICS21-DMM-20251204.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第21讲.pdf)]
 
 ## 第14周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.8（周一）：**Lec25 Network Programming I**
+  大班</span> 2025.12.8（周一）：**Lec25 Network Programming I** [[课件](/resource/lecture/ICS22-network-20251208.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第22讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.12.10（周三）：
-  - <span style="background-color: #FFFF00; padding: 4px 4px">吴悠回课Lec24</span>
-  - <span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec25</span>
-  - 助教Week14
+  - <span style="background-color: #FFFF00; padding: 4px 4px">吴悠回课Lec24</span> [[课件](/resource/seminar/Lec24.pdf)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">谌小祎回课Lec25</span> [[课件](/resource/seminar/Lec25.pptx)]
+  - 助教Week14 [[课件](/resource/seminar/Week14.pptx)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.11（周四）：**Lec26 Network Programming II**  
+  大班</span> 2025.12.11（周四）：**Lec26 Network Programming II** [[课件](/resource/lecture/ICS23-netprog-20251211.pdf)]
 
 ## 第15周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
