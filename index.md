@@ -171,23 +171,23 @@ layout: default
   大班</span> 2025.12.15（周一）：<span style="color: red; font-weight: bold;">Lab测验 Lab1~Lab7</span> 
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.12.17（周三）：
-  - <span style="background-color: #FFFF00; padding: 4px 4px">才定州回课Lec26</span>
-  - 助教Week15
+  - <span style="background-color: #FFFF00; padding: 4px 4px">才定州回课Lec26</span> [[课件](/resource/seminar/Lec26.pptx)]
+  - 助教Week15 [[课件](/resource/seminar/Week15.pptx)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.18（周四）：**Lec28 Concurrent Programming**  
+  大班</span> 2025.12.18（周四）：**Lec28 Concurrent Programming** [[课件](/resource/lecture/ICS24-CONC-20251218.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第24-26讲.pdf)]
 
 ## 第16周
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic**
+  大班</span> 2025.12.22（周一）：**Lec29 Synchronization: Basic** [[课件](/resource/lecture/ICS25-SYNC1-20251222.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第24-26讲.pdf)]
 - <span style="background-color: #d10b3cff; border-radius: 8px; padding: 4px 4px; color: white">
   小班</span> 2025.12.24（周三）：
-  - <span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28</span>
-  - <span style="background-color: #FFFF00; padding: 4px 4px">徐朝睿回课Lec29</span>
-  - 助教Week16
+  - <span style="background-color: #FFFF00; padding: 4px 4px">袁佳逸回课Lec28</span> [[课件](/resource/seminar/Lec28.pptx)]
+  - <span style="background-color: #FFFF00; padding: 4px 4px">徐朝睿回课Lec29</span> [[课件](/resource/seminar/Lec29.pptx)]
+  - 助教Week16 [[课件](/resource/seminar/Week16.pptx)]
   
 - <span style="background-color: #262680ff; border-radius: 8px; padding: 4px 4px; color: white">
-  大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced**  
+  大班</span> 2025.12.25（周四）：**Lec30 Synchronization: Advanced** [[课件](/resource/lecture/ICS26-SYNC2-20251225.pdf)/[研讨+作业](/resource/homework/ICS小班研讨题和作业题-第24-26讲.pdf)]  
 
 # 资料下载
 
